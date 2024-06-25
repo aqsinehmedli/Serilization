@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<carGallerys>
+  <carGalery>
+    <Car>
+      <Name>Cars1</Name>
+      <Car>
+        <Marka>Lada</Marka>
+        <Model>Priora</Model>
+        <Year>2013</Year>
+      </Car>
+      <Car>
+        <Marka>Lada</Marka>
+        <Model>2107</Model>
+        <Year>2011</Year>
+      </Car>
+      <Car>
+        <Marka>Lada</Marka>
+        <Model>2106</Model>
+        <Year>1999</Year>
+      </Car>
+    </Car>
+  </carGalery>
+</carGallerys>
