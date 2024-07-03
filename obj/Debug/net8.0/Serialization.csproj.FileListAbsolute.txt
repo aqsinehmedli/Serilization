@@ -15,3 +15,21 @@ C:\Users\Ahmed_hb29\source\repos\Serialization\Serialization\obj\Debug\net8.0\re
 C:\Users\Ahmed_hb29\source\repos\Serialization\Serialization\bin\Debug\net8.0\Newtonsoft.Json.dll
 C:\Users\Ahmed_hb29\source\repos\Serialization\Serialization\obj\Debug\net8.0\Serialization.csproj.AssemblyReference.cache
 C:\Users\Ahmed_hb29\source\repos\Serialization\Serialization\obj\Debug\net8.0\Serializ.9D12218F.Up2Date
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Serialization.exe
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Serialization.deps.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Serialization.runtimeconfig.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Serialization.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Serialization.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.AssemblyInfo.cs
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.sourcelink.json
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.csproj.CopyComplete
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\refint\Serialization.dll
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.pdb
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\Serialization.genruntimeconfig.cache
+C:\Users\User\OneDrive - ITM STEP MMC\Desktop\Serilization\obj\Debug\net8.0\ref\Serialization.dll

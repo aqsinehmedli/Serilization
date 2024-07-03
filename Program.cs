@@ -69,16 +69,19 @@ using System.Xml;
 ///
 
 
-List<Car> cars3 = new List<Car>()
+List<Car> cars = new List<Car>()
 {
     new Car{Id = 1,Model="Mercedes",Marka= "Benz",Year = 2013},
     new Car{Id = 2,Model="Ford",Marka= "Fushion",Year = 2011},
 };
-CarGallery carGallery = new CarGallery();
-for (int i = 0; i < cars3.Count; i++)
-{
-    carGallery.AddCar(cars3[i]);
+Car car1 = new Car(3, "Tayota", "Prado", 2012);
+CarGallery carGallery = new CarGallery("MercedesShop", cars);
 
-}
+//foreach (Car car in cars3)
+//{
+//    Console.WriteLine(car);
+//}
 
+//carGallery.AddCar(car1);
 
+carGallery.GetAllCar();
